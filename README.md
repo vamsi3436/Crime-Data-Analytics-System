@@ -5,6 +5,7 @@ work, the San Francisco police department incident reports dataset
 was selected, which had historical data from 2018 to 2024. It 
 contains about 80,000 entries with 32 attributes of detailed 
 information on incidents. 
+## 
 The big task statement involves the design of a Distributed Data 
 system that will get raw or unstructured data, process the same, 
 and transform the same into actionable insights to be shown on an 
